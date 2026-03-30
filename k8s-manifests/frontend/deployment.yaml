@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: smashshop-frontend
-        image: nhongcuong/smash-shop-frontend-image:82
+        image: nhongcuong/smash-shop-frontend-image:83
         ports:
         - containerPort: 80
         envFrom:
